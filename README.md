@@ -97,5 +97,5 @@ $ sudo apt-get install openssh-server
     
 
 ### `# Generate ssh private key`
-```
-```
+
+https://github.com/nor1c/ftp-server-private-key-setup
